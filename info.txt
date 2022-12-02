@@ -1,0 +1,30 @@
+👋 Welcome to Codespaces! You are on our default image. 
+   - It includes runtimes and tools for Python, Node.js, Docker, and more. See the full list here: https://aka.ms/ghcs-default-image
+   - Want to use a custom image instead? Learn more here: https://aka.ms/configure-codespace
+
+🔍 To explore VS Code to its fullest, search using the Command Palette (Cmd/Ctrl + Shift + P or F1).
+
+📝 Edit away, run your app as usual, and we'll automatically make it available for you to access.
+
+@kvapehe ➜ /workspaces/nettside01 (main) $ cat
+^C
+@kvapehe ➜ /workspaces/nettside01 (main) $ ls -l
+total 8
+-rw-rw-rw- 1 codespace root 1064 Dec  2 20:27 LICENSE
+-rw-rw-rw- 1 codespace root   42 Dec  2 20:27 README.md
+@kvapehe ➜ /workspaces/nettside01 (main) $ m
+m4                                man-recode                        migrate-pubring-from-classic-gpg  mkfs                              mkhomedir_helper                  mountpoint                        msgen                             msgunfmt                          mvnyjp
+make                              mapfile                           mii-tool                          mkfs.bfs                          mklost+found                      mpicalc                           msgexec                           msguniq                           mypy
+makeconv                          mawk                              minikube                          mkfs.cramfs                       mknod                             msgattrib                         msgfilter                         ms_print                          mypyc
+make-first-existing-target        mcookie                           mispipe                           mkfs.ext2                         mkswap                            msgcat                            msgfmt                            mtrace                            mysql_config
+man                               md5sum                            mkdir                             mkfs.ext3                         mktemp                            msgcmp                            msggrep                           mv                                
+mandb                             md5sum.textutils                  mke2fs                            mkfs.ext4                         more                              msgcomm                           msginit                           mvn                               
+manpath                           mesg                              mkfifo                            mkfs.minix                        mount                             msgconv                           msgmerge                          mvnDebug                          
+@kvapehe ➜ /workspaces/nettside01 (main) $ vi
+vi          vidir       view        vigr        vim         vim.basic   vimdiff     vim.tiny    vimtutor    vipe        vipw        virtualenv  visudo      
+@kvapehe ➜ /workspaces/nettside01 (main) $ vim fil.txt
+@kvapehe ➜ /workspaces/nettside01 (main ✗) $ 
+
+
+
+
